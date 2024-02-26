@@ -1,4 +1,11 @@
-<h2 align="left">Hi, My name is Awais and I'm a Front-End Developer, from Lahore,Pakistan.</h2>
+<h2 align="left"> Hi, I’m Awais Tahir , I am a Software Engineer.</h2>
+
+<p>
+Hello! I am a Software Engineer with a passion for developing innovative and user-friendly web applications. With 1+ years of experience in the industry, I have honed my skills in JavaScript, React and Next.js.
+
+I have a strong understanding of the software development life cycle and have worked on projects ranging from simple websites to complex web applications. I am always striving to stay up-to-date with the latest technologies and industry trends, and I am dedicated to delivering high-quality solutions to my clients.
+
+In my free time, I enjoy exploring new technologies. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to see what the future holds.</p>
 
 ###
 
